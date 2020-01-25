@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/promenade/static/css/main.641bcfaf.chunk.css",
+    "main.js": "/promenade/static/js/main.6f7f2707.chunk.js",
+    "main.js.map": "/promenade/static/js/main.6f7f2707.chunk.js.map",
+    "runtime-main.js": "/promenade/static/js/runtime-main.f3164ede.js",
+    "runtime-main.js.map": "/promenade/static/js/runtime-main.f3164ede.js.map",
+    "static/js/2.e8843fde.chunk.js": "/promenade/static/js/2.e8843fde.chunk.js",
+    "static/js/2.e8843fde.chunk.js.map": "/promenade/static/js/2.e8843fde.chunk.js.map",
+    "index.html": "/promenade/index.html",
+    "precache-manifest.8e1c0420b26916f8fb09ec0104ec0714.js": "/promenade/precache-manifest.8e1c0420b26916f8fb09ec0104ec0714.js",
+    "service-worker.js": "/promenade/service-worker.js",
+    "static/css/main.641bcfaf.chunk.css.map": "/promenade/static/css/main.641bcfaf.chunk.css.map",
+    "static/js/2.e8843fde.chunk.js.LICENSE": "/promenade/static/js/2.e8843fde.chunk.js.LICENSE",
+    "static/media/rain2.mp4": "/promenade/static/media/rain2.9fdce2f4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3164ede.js",
+    "static/js/2.e8843fde.chunk.js",
+    "static/css/main.641bcfaf.chunk.css",
+    "static/js/main.6f7f2707.chunk.js"
+  ]
+}
