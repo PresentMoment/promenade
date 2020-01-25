@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60cebf7af3c71be59601cc8fa8fc3607",
+    "revision": "896a8dabfcdecfb88882a717702b911f",
     "url": "/promenade/index.html"
   },
   {
-    "revision": "c8cf2abc28092ddcf771",
+    "revision": "05c86c832a7d0b3534f7",
     "url": "/promenade/static/css/main.641bcfaf.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/promenade/static/js/2.6673d869.chunk.js.LICENSE"
   },
   {
-    "revision": "c8cf2abc28092ddcf771",
-    "url": "/promenade/static/js/main.9b63dae0.chunk.js"
+    "revision": "05c86c832a7d0b3534f7",
+    "url": "/promenade/static/js/main.3a23627d.chunk.js"
   },
   {
     "revision": "c0004d4bac9783e71198",
     "url": "/promenade/static/js/runtime-main.f3164ede.js"
   },
   {
-    "revision": "4f568e6cf2d9cb4b90710d2f6845cb39",
-    "url": "/promenade/static/media/Promenade.4f568e6c.jpg"
-  },
-  {
     "revision": "ad125f45267af336caf52dcec211452d",
     "url": "/promenade/static/media/day.ad125f45.mp4"
+  },
+  {
+    "revision": "3e76cc6bbf9eeadae8443f59f66caadc",
+    "url": "/promenade/static/media/promenade.3e76cc6b.jpg"
   },
   {
     "revision": "9fdce2f468e992a871d80e8ddeb9ed2e",

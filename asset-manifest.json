@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/promenade/static/css/main.641bcfaf.chunk.css",
-    "main.js": "/promenade/static/js/main.9b63dae0.chunk.js",
-    "main.js.map": "/promenade/static/js/main.9b63dae0.chunk.js.map",
+    "main.js": "/promenade/static/js/main.3a23627d.chunk.js",
+    "main.js.map": "/promenade/static/js/main.3a23627d.chunk.js.map",
     "runtime-main.js": "/promenade/static/js/runtime-main.f3164ede.js",
     "runtime-main.js.map": "/promenade/static/js/runtime-main.f3164ede.js.map",
     "static/js/2.6673d869.chunk.js": "/promenade/static/js/2.6673d869.chunk.js",
     "static/js/2.6673d869.chunk.js.map": "/promenade/static/js/2.6673d869.chunk.js.map",
     "index.html": "/promenade/index.html",
-    "precache-manifest.a131725c73877cb0a9de4490a453242d.js": "/promenade/precache-manifest.a131725c73877cb0a9de4490a453242d.js",
+    "precache-manifest.ecd98d5dbe28324a866e212724fafdad.js": "/promenade/precache-manifest.ecd98d5dbe28324a866e212724fafdad.js",
     "service-worker.js": "/promenade/service-worker.js",
     "static/css/main.641bcfaf.chunk.css.map": "/promenade/static/css/main.641bcfaf.chunk.css.map",
     "static/js/2.6673d869.chunk.js.LICENSE": "/promenade/static/js/2.6673d869.chunk.js.LICENSE",
-    "static/media/Promenade.jpg": "/promenade/static/media/Promenade.4f568e6c.jpg",
     "static/media/day.mp4": "/promenade/static/media/day.ad125f45.mp4",
+    "static/media/promenade.jpg": "/promenade/static/media/promenade.3e76cc6b.jpg",
     "static/media/rain2.mp4": "/promenade/static/media/rain2.9fdce2f4.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f3164ede.js",
     "static/js/2.6673d869.chunk.js",
     "static/css/main.641bcfaf.chunk.css",
-    "static/js/main.9b63dae0.chunk.js"
+    "static/js/main.3a23627d.chunk.js"
   ]
 }
