@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/promenade/static/css/main.625688e4.chunk.css",
+    "main.css": "/promenade/static/css/main.d5ba1bc9.chunk.css",
     "main.js": "/promenade/static/js/main.446dda7c.chunk.js",
     "main.js.map": "/promenade/static/js/main.446dda7c.chunk.js.map",
     "runtime-main.js": "/promenade/static/js/runtime-main.f3164ede.js",
@@ -8,9 +8,9 @@
     "static/js/2.6673d869.chunk.js": "/promenade/static/js/2.6673d869.chunk.js",
     "static/js/2.6673d869.chunk.js.map": "/promenade/static/js/2.6673d869.chunk.js.map",
     "index.html": "/promenade/index.html",
-    "precache-manifest.7fbe495d2c932fa83ba1f7ca52b1971d.js": "/promenade/precache-manifest.7fbe495d2c932fa83ba1f7ca52b1971d.js",
+    "precache-manifest.cfa4abcf7ca2277681349a52926e7be8.js": "/promenade/precache-manifest.cfa4abcf7ca2277681349a52926e7be8.js",
     "service-worker.js": "/promenade/service-worker.js",
-    "static/css/main.625688e4.chunk.css.map": "/promenade/static/css/main.625688e4.chunk.css.map",
+    "static/css/main.d5ba1bc9.chunk.css.map": "/promenade/static/css/main.d5ba1bc9.chunk.css.map",
     "static/js/2.6673d869.chunk.js.LICENSE": "/promenade/static/js/2.6673d869.chunk.js.LICENSE",
     "static/media/App.css": "/promenade/static/media/AlteHaasGroteskBold.8dddfc4c.ttf",
     "static/media/day.mp4": "/promenade/static/media/day.ad125f45.mp4",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3164ede.js",
     "static/js/2.6673d869.chunk.js",
-    "static/css/main.625688e4.chunk.css",
+    "static/css/main.d5ba1bc9.chunk.css",
     "static/js/main.446dda7c.chunk.js"
   ]
 }
