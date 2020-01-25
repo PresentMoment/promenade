@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f545f06daaf8cf7d4f8d292894ed7d42",
+    "revision": "cb32d1a3274ea02e64a06d5eef717f15",
     "url": "/promenade/index.html"
   },
   {
-    "revision": "8d5786a163bbdd5f3dc5",
-    "url": "/promenade/static/css/main.641bcfaf.chunk.css"
+    "revision": "54ca2c7965fbd038976f",
+    "url": "/promenade/static/css/main.b5454d2c.chunk.css"
   },
   {
     "revision": "b5cbaa6603946e639390",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/promenade/static/js/2.e8843fde.chunk.js.LICENSE"
   },
   {
-    "revision": "8d5786a163bbdd5f3dc5",
+    "revision": "54ca2c7965fbd038976f",
     "url": "/promenade/static/js/main.29582cab.chunk.js"
   },
   {
